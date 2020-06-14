@@ -7,6 +7,8 @@ It checks for the existence of a non-garbage (localhost, "", "127.0.0.1", "0.0.0
 
 Deployed at: `https://us-central1-mxvalidator.cloudfunctions.net/ValidateMX`
 
+UI - `https://mxvalidator.tux-sudo.com`
+
 Request:
 
 ```javascript
